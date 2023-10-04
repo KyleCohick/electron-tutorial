@@ -1,0 +1,27 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": " I followed a tutorial for electron and made this. ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleCohick/electron-tutorial.git"
+  },
+  "keywords": [
+    "electron",
+    "tutorial"
+  ],
+  "author": "KyleCohick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyleCohick/electron-tutorial/issues"
+  },
+  "homepage": "https://github.com/KyleCohick/electron-tutorial#readme",
+  "devDependencies": {
+    "electron": "^26.2.4"
+  }
+}
